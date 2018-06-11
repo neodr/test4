@@ -1,0 +1,3 @@
+[submodule "deps/testsubmod"]
+	path = deps/testsubmod
+	url = https://github.com/rfree-d/testsubmod.git
