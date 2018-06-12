@@ -4,7 +4,7 @@ test4.
 and bar.
 
 
-and foo
+and foo.
 
 
 and 0xdeadbeefcafe
