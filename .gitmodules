@@ -1,3 +1,6 @@
 [submodule "deps/testsubmod"]
 	path = deps/testsubmod
 	url = https://github.com/rfree-d/testsubmod.git
+[submodule "deps/jsonpp"]
+	path = deps/jsonpp
+	url = https://github.com/jmhodges/jsonpp.git
